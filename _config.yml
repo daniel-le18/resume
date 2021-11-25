@@ -1,0 +1,21 @@
+# Site settings
+title: Daniel Le
+description: Daniel Le - Software Engineer
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://daniel-le.com"
+
+# User settings
+username: Daniel Le
+user_description: Full stack Software Engineer - Charles Schwab
+user_title: Software Engineer
+email: dev@daniel-le.com
+github_username: daniel-le18
+
+# Google webmaster tools
+google_verify: RWAhnQAwtW2Wc_v_kEhK_WFkNqcHJW47OzNxSGxz0A0
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: E1786FBC3A3BAFC5BF6F28B4E0654ADB
+
+exclude: ["package.json", "src", "node_modules"]
