@@ -1,7 +1,10 @@
 # Site settings
-title: Daniel Le
+title: <Daniel Le/>
 description: Daniel Le - Software Engineer
+
 # baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
+
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 url: "https://daniel-le.com"
 

@@ -12,6 +12,7 @@ progress,
 video {
   display: inline-block;
 }
+
 progress,
 sub,
 sup {
@@ -65,7 +66,23 @@ samp {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  display: inline;
+  position: relative;
 }
+
+a:hover:after {
+  background: white;
+  border-radius: 5px;
+  bottom: -35px;
+  color: black;
+  content: attr(gloss);
+  left: -45%;
+  padding: 5px 15px;
+  position: absolute;
+  z-index: 98;
+  width: 95px;
+}
+
 abbr[title] {
   border-bottom: none;
   text-decoration: underline dotted;
