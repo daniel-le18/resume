@@ -3964,13 +3964,10 @@ body {
   background: #1a222c;
   padding: 10px 0;
   text-align: center;
+}
+.footer p{
   color: #ffffff;
-}
-.footer .love {
-  color: red;
-}
-.footer a {
-  text-decoration: none;
-  margin: 0;
-  color: #fff;
+  position: fixed; 
+  bottom: 0;
+  color:white;
 }
