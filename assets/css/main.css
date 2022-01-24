@@ -3800,7 +3800,7 @@ sup {
   text-align: center;
   color: #fff;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
